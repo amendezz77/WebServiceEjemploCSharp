@@ -1,0 +1,1 @@
+https://www.technical-recipes.com/2017/creating-and-consuming-a-web-service-in-c-net/
