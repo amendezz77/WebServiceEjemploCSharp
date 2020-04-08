@@ -22,5 +22,11 @@ namespace WebApplicationWebServiceCSharp
         {
             return "Hola a todos";
         }
+
+        [WebMethod]
+        public int Caclulo()
+        {
+            return 1;
+        }
     }
 }
