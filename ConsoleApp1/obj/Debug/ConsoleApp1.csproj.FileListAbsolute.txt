@@ -1,0 +1,6 @@
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Ariel Mendez\CursoWebService\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

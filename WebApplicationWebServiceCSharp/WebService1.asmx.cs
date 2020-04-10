@@ -24,9 +24,15 @@ namespace WebApplicationWebServiceCSharp
         }
 
         [WebMethod]
-        public int Caclulo()
+        public double Square(double x)
         {
-            return 1;
+            return x * x;
+        }
+
+        [WebMethod]
+        public double SquareRoot(float x)
+        {
+            return Math.Sqrt(x);
         }
     }
 }
